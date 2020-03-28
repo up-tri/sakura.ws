@@ -1,0 +1,9 @@
+{
+  "name": "sakura-ws",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.2.3"
+  }
+}
